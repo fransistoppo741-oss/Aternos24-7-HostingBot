@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "leef.play.hosting",
-    "port": 25740,
+    "port": 25586,
     "version": "1.21.11",
     "try-creative": false
   },
