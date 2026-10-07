@@ -2,13 +2,13 @@
   "name": "ERAN",
   "bot-account": {
     "username": "ERAN",
-    "password": "mikasaloveeran",
+    "password": "mikasalove",
     "type": "offline"
   },
   "server": {
     "ip": "leef.play.hosting",
-    "port": 25586,
-    "version": "1.21.11",
+    "port": 25956,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "mikasaloveeran"
+      "enabled": false,
+      "password": "mikasalove"
     },
     "anti-afk": {
       "enabled": true,
